@@ -10,15 +10,15 @@
 
 
 ## GET Requests
-```/``` — Show a homepage
-```/hotels```  Show a list of hotels
-```/login```  Lets a user login
-```/logout```  Lets a user logout
-```/auth0/callback```  Auth0 provided route to handle the login callback
-```/dashboard```  Show a user's dashboard homepage
-```/dashboard/reservations```  Show a user's reservations in their dashboard
-```/dashboard/reservations/new```  Show the page to create a reservation
-```/dashboard/reservations/{id}```  Show a single reservation
+```/``` — Show a homepage\
+```/hotels```  Show a list of hotels\
+```/login```  Lets a user login\
+```/logout```  Lets a user logout\
+```/auth0/callback```  Auth0 provided route to handle the login callback\
+```/dashboard```  Show a user's dashboard homepage\
+```/dashboard/reservations```  Show a user's reservations in their dashboard\
+```/dashboard/reservations/new```  Show the page to create a reservation\
+```/dashboard/reservations/{id}```  Show a single reservation\
 ```/dashboard/reservations/{id}/edit```  Show the page to edit a reservation
 
 ## POST Requests
